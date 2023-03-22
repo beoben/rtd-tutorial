@@ -1,5 +1,19 @@
-Welcome to Lumache's documentation!
+Welcome to Beth's documentation!
 ===================================
+Maybe we should look at some markdown formatting. 
+
+Inline `code` has `back-ticks` around it. This isn't being rendered in the github preview.
+
+```python
+s = "Python syntax highlighting"
+print s
+```
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+===
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
@@ -20,5 +34,8 @@ Contents
 
 .. toctree::
 
+   boats
+     small
+     large
    usage
    api
