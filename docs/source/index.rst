@@ -2,7 +2,7 @@ Welcome to Beth's documentation!
 ===================================
 Maybe we should look at some markdown formatting. 
 
-Inline `code` has `back-ticks` around it. This isn't being rendered in the github preview.
+Inline `code` has `back-ticks` around it. 
 
 ```python
 s = "Python syntax highlighting"
