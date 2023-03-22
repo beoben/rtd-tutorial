@@ -9,9 +9,27 @@ s = "Python syntax highlighting"
 print s
 ```
 
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
+
+
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
 " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />Link to a thing?</a>
 
 h1 This is from the template
 
