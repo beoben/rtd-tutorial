@@ -1,14 +1,34 @@
-# Pearson 26
-Rig | Mast Height | Beam
---- | --- | ---
-Sloop | 35.17 ft | 8.69 ft
+Boats
+=========================
 
-# PT 11 dinghy
-Rig | Mast Height | Beam
---- | --- | ---
-Row | no mast | 4'2"
+.. autosummary::
+   :toctree: generated
+   
+Here's a grid table followed by a simple table:
 
-# Southern Cross 35
-Rig | Mast Height | Beam
---- | --- | ---
-Cutter | ? | 11.42 ft
++------------------------+------------+----------+----------+
+| Header row, column 1   | Header 2   | Header 3 | Header 4 |
+| (header rows optional) |            |          |          |
++========================+============+==========+==========+
+| body row 1, column 1   | column 2   | column 3 | column 4 |
++------------------------+------------+----------+----------+
+| body row 2             | Cells may span columns.          |
++------------------------+------------+---------------------+
+| body row 3             | Cells may  | - Table cells       |
++------------------------+ span rows. | - contain           |
+| body row 4             |            | - body elements.    |
++------------------------+------------+----------+----------+
+| body row 5             | Cells may also be     |          |
+|                        | empty: ``-->``        |          |
++------------------------+-----------------------+----------+
+
+=====  =====  ======
+   Inputs     Output
+------------  ------
+  A      B    A or B
+=====  =====  ======
+False  False  False
+True   False  True
+False  True   True
+True   True   True
+=====  =====  ======
