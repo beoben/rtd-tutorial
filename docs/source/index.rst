@@ -34,5 +34,5 @@ Contents
 
       tcg/welcome
       tcg/onboarding/index
-      tcg/tutorials
+      tcg/onboarding/tutorials
       tcg/doc-styleguide
