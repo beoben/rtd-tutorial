@@ -5,3 +5,5 @@ Documentation Style Guide
 
 * All code-blocks must have ``:linenos:`` attribute EXCEPT for codeblocks displaying
   command-line execution.
+
+https://myst-parser.readthedocs.io/en/latest/syntax/typography.html
