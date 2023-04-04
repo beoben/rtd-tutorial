@@ -1,25 +1,27 @@
 Welcome to Beth's documentation!
 ===================================
 
+Introduction
+============
+   
+I'm learning how to structure and build these files. 
+   
+Section A
+---------
+
+Contents here.
+
+   
+Header 3
+~~~~~~~~
+
    .. include:: tcg/welcome.rst
-   
-   Header 1
-   ========
 
-   Header 2
-   --------
+Header 4
+^^^^^^^^
 
-   Header 3
-   ~~~~~~~~
-
-   Header 4
-   ^^^^^^^^
-
-.. note::
-
-   This project is under active development.
-   
-   
+.. note:: This project is under active development.
+      
 .. warning:: **Warning Message**
 
 Contents
