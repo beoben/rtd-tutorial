@@ -20,6 +20,13 @@ Header 3
 Header 4
 ^^^^^^^^
 
+LVA Virtual Machine
+-------------------
+
+.. code:: bash
+
+   $ ssh -v -i ~/.ssh/vmtcgdpoc-keypair.pem ubuntu@52.66.25.175 -p 22
+
 .. note:: This project is under active development.
       
 .. warning:: **Warning Message**
