@@ -31,15 +31,4 @@ LVA Virtual Machine
       
 .. warning:: **Warning Message**
 
-Contents
---------
 
-   .. toctree::
-      :name: TCG Digital US
-      :caption: TCG Digital US
-      :maxdepth: 5
-
-      tcg/welcome
-      tcg/onboarding/index
-      tcg/onboarding/tutorials
-      tcg/doc-styleguide
