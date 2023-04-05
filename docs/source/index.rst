@@ -11,7 +11,15 @@ Welcome to Beth's documentation!
       tcg/tutorials
       tcg/doc-styleguide
 
-   
+   .. toctree::
+      :name: TCG Digital US
+      :caption: tcg mcube Section
+      :maxdepth: 5   
+      
+      mcube/overview
+      mcube/install
+      mcube/development/index      
+      
  
 Section A
 ---------
