@@ -8,7 +8,7 @@ Welcome to Beth's documentation!
 
       tcg/welcome
       tcg/onboarding/index
-      tcg/onboarding/tutorials
+      tcg/tutorials
       tcg/doc-styleguide
 
    
