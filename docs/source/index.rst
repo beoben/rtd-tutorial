@@ -3,7 +3,7 @@ Welcome to Beth's documentation!
 
    .. toctree::
       :name: TCG Digital US
-      :caption: Where is this used?
+      :caption: TCG Section
       :maxdepth: 5
 
       tcg/welcome
